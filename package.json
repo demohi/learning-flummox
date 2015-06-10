@@ -1,0 +1,22 @@
+{
+  "name": "learning-flummox",
+  "version": "0.0.0",
+  "description": "flummox example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/learning-flummox.git"
+  },
+  "keywords": [
+    "flummox"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/learning-flummox/issues"
+  },
+  "homepage": "https://github.com/demohi/learning-flummox"
+}
